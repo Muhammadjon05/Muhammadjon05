@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <p align="center">
 <img src="./Muhammadjon.png" alt="Mukhammadjon Makhkamboev"/>
 <a href="https://github.com/muhammadjon05"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Hi,+I'm+Muhammadjon+Makhkamboev+👋;.Net+Developer;Nice+to+meet+you!" /> </a> </p>
 
  <br/><br/>
-
+<div align="center">
 <a href="https://t.me/Mahkamof_571"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
 <a href="https://www.linkedin.com/in/mukhammadjon-makhkamboev-313b41270/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 
@@ -39,4 +38,6 @@ Here are some ideas to get you started:
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=muhammadjon05&show_icons=true&theme=synthwave" alt="muhammadjon05 :: Profile Stats" /></p>
+
+
 
