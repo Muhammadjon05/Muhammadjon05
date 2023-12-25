@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <img src="./Muhammadjon.png" alt="Mukhammadjon Makhkamboev"/>
-<a href="https://github.com/muhammadjon05"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Hi,+I'm+Muhammadjon+Makhkamboev+👋;.Net+Developer;Nice+to+meet+you!" /> </a> </p>
+<a href="https://github.com/muhammadjon05"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Hi,+I'm+Muhammadjon+Makhkamboev+👋;.Net+Developer+and+Laravel+Developer;Nice+to+meet+you!" /> </a> </p>
 
  <br/><br/>
 <div align="center">
